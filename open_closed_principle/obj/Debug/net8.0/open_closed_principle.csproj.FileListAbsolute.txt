@@ -1,0 +1,15 @@
+C:\Users\nishant\source\repos\SOLID\open_closed_principle\obj\Debug\net8.0\open_closed_principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nishant\source\repos\SOLID\open_closed_principle\obj\Debug\net8.0\open_closed_principle.AssemblyInfoInputs.cache
+C:\Users\nishant\source\repos\SOLID\open_closed_principle\obj\Debug\net8.0\open_closed_principle.AssemblyInfo.cs
+C:\Users\nishant\source\repos\SOLID\open_closed_principle\obj\Debug\net8.0\open_closed_principle.csproj.CoreCompileInputs.cache
+C:\Users\nishant\source\repos\SOLID\open_closed_principle\obj\Debug\net8.0\open_closed_principle.sourcelink.json
+C:\Users\nishant\source\repos\SOLID\open_closed_principle\bin\Debug\net8.0\open_closed_principle.exe
+C:\Users\nishant\source\repos\SOLID\open_closed_principle\bin\Debug\net8.0\open_closed_principle.deps.json
+C:\Users\nishant\source\repos\SOLID\open_closed_principle\bin\Debug\net8.0\open_closed_principle.runtimeconfig.json
+C:\Users\nishant\source\repos\SOLID\open_closed_principle\bin\Debug\net8.0\open_closed_principle.dll
+C:\Users\nishant\source\repos\SOLID\open_closed_principle\bin\Debug\net8.0\open_closed_principle.pdb
+C:\Users\nishant\source\repos\SOLID\open_closed_principle\obj\Debug\net8.0\open_closed_principle.dll
+C:\Users\nishant\source\repos\SOLID\open_closed_principle\obj\Debug\net8.0\refint\open_closed_principle.dll
+C:\Users\nishant\source\repos\SOLID\open_closed_principle\obj\Debug\net8.0\open_closed_principle.pdb
+C:\Users\nishant\source\repos\SOLID\open_closed_principle\obj\Debug\net8.0\open_closed_principle.genruntimeconfig.cache
+C:\Users\nishant\source\repos\SOLID\open_closed_principle\obj\Debug\net8.0\ref\open_closed_principle.dll
