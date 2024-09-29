@@ -1,0 +1,15 @@
+C:\Users\nishant\source\repos\SOLID\liskov_substitution_principle\bin\Debug\net8.0\liskov_substitution_principle.exe
+C:\Users\nishant\source\repos\SOLID\liskov_substitution_principle\bin\Debug\net8.0\liskov_substitution_principle.deps.json
+C:\Users\nishant\source\repos\SOLID\liskov_substitution_principle\bin\Debug\net8.0\liskov_substitution_principle.runtimeconfig.json
+C:\Users\nishant\source\repos\SOLID\liskov_substitution_principle\bin\Debug\net8.0\liskov_substitution_principle.dll
+C:\Users\nishant\source\repos\SOLID\liskov_substitution_principle\bin\Debug\net8.0\liskov_substitution_principle.pdb
+C:\Users\nishant\source\repos\SOLID\liskov_substitution_principle\obj\Debug\net8.0\liskov_substitution_principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nishant\source\repos\SOLID\liskov_substitution_principle\obj\Debug\net8.0\liskov_substitution_principle.AssemblyInfoInputs.cache
+C:\Users\nishant\source\repos\SOLID\liskov_substitution_principle\obj\Debug\net8.0\liskov_substitution_principle.AssemblyInfo.cs
+C:\Users\nishant\source\repos\SOLID\liskov_substitution_principle\obj\Debug\net8.0\liskov_substitution_principle.csproj.CoreCompileInputs.cache
+C:\Users\nishant\source\repos\SOLID\liskov_substitution_principle\obj\Debug\net8.0\liskov_substitution_principle.sourcelink.json
+C:\Users\nishant\source\repos\SOLID\liskov_substitution_principle\obj\Debug\net8.0\liskov_substitution_principle.dll
+C:\Users\nishant\source\repos\SOLID\liskov_substitution_principle\obj\Debug\net8.0\refint\liskov_substitution_principle.dll
+C:\Users\nishant\source\repos\SOLID\liskov_substitution_principle\obj\Debug\net8.0\liskov_substitution_principle.pdb
+C:\Users\nishant\source\repos\SOLID\liskov_substitution_principle\obj\Debug\net8.0\liskov_substitution_principle.genruntimeconfig.cache
+C:\Users\nishant\source\repos\SOLID\liskov_substitution_principle\obj\Debug\net8.0\ref\liskov_substitution_principle.dll
