@@ -1,0 +1,15 @@
+C:\Users\nishant\source\repos\SOLID\interface_segmented_principle\bin\Debug\net8.0\interface_segmented_principle.exe
+C:\Users\nishant\source\repos\SOLID\interface_segmented_principle\bin\Debug\net8.0\interface_segmented_principle.deps.json
+C:\Users\nishant\source\repos\SOLID\interface_segmented_principle\bin\Debug\net8.0\interface_segmented_principle.runtimeconfig.json
+C:\Users\nishant\source\repos\SOLID\interface_segmented_principle\bin\Debug\net8.0\interface_segmented_principle.dll
+C:\Users\nishant\source\repos\SOLID\interface_segmented_principle\bin\Debug\net8.0\interface_segmented_principle.pdb
+C:\Users\nishant\source\repos\SOLID\interface_segmented_principle\obj\Debug\net8.0\interface_segmented_principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nishant\source\repos\SOLID\interface_segmented_principle\obj\Debug\net8.0\interface_segmented_principle.AssemblyInfoInputs.cache
+C:\Users\nishant\source\repos\SOLID\interface_segmented_principle\obj\Debug\net8.0\interface_segmented_principle.AssemblyInfo.cs
+C:\Users\nishant\source\repos\SOLID\interface_segmented_principle\obj\Debug\net8.0\interface_segmented_principle.csproj.CoreCompileInputs.cache
+C:\Users\nishant\source\repos\SOLID\interface_segmented_principle\obj\Debug\net8.0\interface_segmented_principle.sourcelink.json
+C:\Users\nishant\source\repos\SOLID\interface_segmented_principle\obj\Debug\net8.0\interface_segmented_principle.dll
+C:\Users\nishant\source\repos\SOLID\interface_segmented_principle\obj\Debug\net8.0\refint\interface_segmented_principle.dll
+C:\Users\nishant\source\repos\SOLID\interface_segmented_principle\obj\Debug\net8.0\interface_segmented_principle.pdb
+C:\Users\nishant\source\repos\SOLID\interface_segmented_principle\obj\Debug\net8.0\interface_segmented_principle.genruntimeconfig.cache
+C:\Users\nishant\source\repos\SOLID\interface_segmented_principle\obj\Debug\net8.0\ref\interface_segmented_principle.dll
